@@ -1,1 +1,0 @@
-# aml-transaction-monitoring-data-model
