@@ -37,4 +37,4 @@ Customer → Account → Transaction → Alert → Case → Investigator
 - Risk & Compliance Dashboards
 - Fraud Detection Systems
 
-This project is designed for Data Modeller / AML Data Engineer / FCRM Analyst roles.
+
